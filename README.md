@@ -7,7 +7,9 @@ CONTENT:::
 
 1) ABOUT
 
-This repo contains a number of scripts you can use to scrape and download websites for offline use. The scripts are in Python and use beautiful soup package for scrapping. Feel free to use and modify the scripts to suit your needs. 
+These scripts enables the download of World Wide Web sites from the Internet to a local computer. By default, the downloaded site by the original site's relative link-structure. The downloaded (or "mirrored") website can be browsed by opening a page of the site in a browser.
+
+The scripts are in Python and use beautiful soup package for scrapping. Feel free to use and modify the scripts to suit your needs. 
 The scripts perform the following actions:-
   1. Scrape and download the scrapped websites' css,javascript and images to your machine.
   2. Scrape a website that needs authentication.
