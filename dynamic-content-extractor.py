@@ -55,3 +55,5 @@ print(image_result["translatedText"])
 
 # Quit the Chrome driver
 driver.quit()
+
+##has to be refatored
